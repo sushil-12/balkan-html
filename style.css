@@ -8,7 +8,7 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 100%;
 }
 
 .container {
@@ -103,6 +103,7 @@ footer {
     html{
         display: block;
         height: auto;
+        align-items: flex-start;
     }
     .heading {
         font-size: 1.85rem;
